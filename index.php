@@ -10,6 +10,7 @@
         <li><a href="#galerija">Galerija</a></li>
         <li><a href="#kontakt">Stopite v kontakt!</a></li>
         <li><a href="register.php">Registracija</a></li>
+        <li><a href="login.php">Prijava</a></li>
     </ul>
   </nav>
 
